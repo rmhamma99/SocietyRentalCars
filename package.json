@@ -1,0 +1,35 @@
+{
+  "name": "projectapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmhamma99/SocietyRentalCars.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmhamma99/SocietyRentalCars/issues"
+  },
+  "homepage": "https://github.com/rmhamma99/SocietyRentalCars#readme",
+  "description": "",
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "^2.1.1",
+    "@react-navigation/native": "^7.0.14",
+    "@react-navigation/stack": "^7.1.1",
+    "axios": "^1.7.9",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.10.1",
+    "react-native-gesture-handler": "^2.23.1",
+    "react-native-reanimated": "^3.16.7",
+    "react-native-safe-area-context": "^5.2.0",
+    "react-native-screens": "^4.6.0",
+    "stripe": "^17.6.0"
+  }
+}
